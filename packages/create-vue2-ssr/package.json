@@ -1,0 +1,22 @@
+{
+  "name": "create-vue2-ssr",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "setup": "create-vue2-ssr",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-vue2-ssr": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "kolorist": "^1.5.1",
+    "minimist": "^1.2.6",
+    "validate-npm-package-name": "^4.0.0"
+  }
+}

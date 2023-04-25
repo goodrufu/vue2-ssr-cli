@@ -1,0 +1,22 @@
+# Logs
+docs/.vitepress/dist/
+packages/**/lib/
+packages/**/es/
+packages/**/lib/
+/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+node_modules
+coverage
+.DS_Store
+.history
+temp
+.vuerc
+.version
+.versions
+.changelog
+
+dist/
